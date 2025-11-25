@@ -1,16 +1,15 @@
-## Hi there 👋
+# My Profile
 
-<!--
-**lebronkiermacadangdang/lebronkiermacadangdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Name:** Lebron Kier S. Macadangdang  
+**Education:** BS Information Technology (or ilagay kung anong course mo)  
+**Certifications:**  
+- SQL and Relational Databases 101 – (Add link here once you finish)  
+- (Add more certifications if meron)  
 
-Here are some ideas to get you started:
+**Skillsets:**  
+- SQL  
+- Java  
+- HTML/CSS  
+- Database Management  
+- (Add more skills if you want)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
